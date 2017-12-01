@@ -1,0 +1,99 @@
+Time of Tweet: Fri Dec 01 01:10:52 +0000 2017
+Tweet Text: ved not only five c
+
+Time of Tweet: Fri Dec 01 01:10:44 +0000 2017
+Tweet Text: inter took a galley of type and
+
+Time of Tweet: Fri Dec 01 01:10:36 +0000 2017
+Tweet Text: Lorem Ipsum is simply dummy text n an unknown printe
+
+Time of Tweet: Fri Dec 01 01:10:25 +0000 2017
+Tweet Text: Lorem Ipsum is simply dummy text
+
+Time of Tweet: Fri Dec 01 01:10:17 +0000 2017
+Tweet Text: tweet tweet
+
+Time of Tweet: Thu Nov 30 22:16:31 +0000 2017
+Tweet Text: anthony's second tweet
+
+Time of Tweet: Thu Nov 30 22:16:09 +0000 2017
+Tweet Text: Anthony's tweet
+
+Time of Tweet: Thu Nov 30 14:53:06 +0000 2017
+Tweet Text: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan… https://t.co/vHSE4Q0nwP
+
+Time of Tweet: Wed Nov 29 22:34:13 +0000 2017
+Tweet Text: tweet3
+
+Time of Tweet: Wed Nov 29 22:34:07 +0000 2017
+Tweet Text: tweet2
+
+Time of Tweet: Tue Nov 28 17:07:51 +0000 2017
+Tweet Text: Tweet Tweet
+
+Time of Tweet: Fri Dec 01 01:10:52 +0000 2017
+Tweet Text: ved not only five c
+
+Time of Tweet: Fri Dec 01 01:10:44 +0000 2017
+Tweet Text: inter took a galley of type and
+
+Time of Tweet: Fri Dec 01 01:10:36 +0000 2017
+Tweet Text: Lorem Ipsum is simply dummy text n an unknown printe
+
+Time of Tweet: Fri Dec 01 01:10:25 +0000 2017
+Tweet Text: Lorem Ipsum is simply dummy text
+
+Time of Tweet: Fri Dec 01 01:10:17 +0000 2017
+Tweet Text: tweet tweet
+Time of Tweet: Thu Nov 30 22:16:31 +0000 2017
+
+Tweet Text: anthony's second tweet
+
+Time of Tweet: Thu Nov 30 22:16:09 +0000 2017
+Tweet Text: Anthony's tweet
+
+Time of Tweet: Thu Nov 30 14:53:06 +0000 2017
+Tweet Text: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan… https://t.co/vHSE4Q0nwP
+
+Time of Tweet: Wed Nov 29 22:34:13 +0000 2017
+Tweet Text: tweet3
+
+Time of Tweet: Wed Nov 29 22:34:07 +0000 2017
+Tweet Text: tweet2
+
+Time of Tweet: Tue Nov 28 17:07:51 +0000 2017
+Tweet Text: Tweet Tweet
+
+No user input for the Song Name. Default is 'The Sign' by Ace of Base
+Artist Name: "The Karaoke Channel"
+Song Name: "The Sign (Originally Performed by Ace of Base) [Karaoke Version]"
+Preview Link: "https://p.scdn.co/mp3-preview/f4b3590097ad447c3c6e2114e36ab73aef6af0b8?cid=b3eeaaff6f0a47c59ee45f384af9a443"
+Album Name: "The Karaoke Channel - Sing the Sign Like Ace of Base"
+Artist Name: "Tyler Childers"
+Song Name: "Whitehouse Road"
+Preview Link: "https://p.scdn.co/mp3-preview/cf6fb10bb13261285b0d044bb40887814da405cc?cid=b3eeaaff6f0a47c59ee45f384af9a443"
+Album Name: "Purgatory"
+No user input for the Movie Name. Default is 'Mr.Nobody
+Movie Title: Mr. Nobody
+Release Year: 2009
+IMDb Rating: 7.9
+Rotten Tomatoes Rating- 66%
+Country where movie was produced: Belgium, Germany, Canada, France, USA, UK
+Movie Languages: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Movie Title: Titanic
+Release Year: 1997
+IMDb Rating: 7.8
+Country where movie was produced: USA
+Movie Languages: English, Swedish
+Rotten Tomatoes Rating- 88%
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+Artist Name: "Eminem"
+Song Name: "Lose Yourself - Soundtrack Version"
+There is no Preview URL available from Spotify.
+Album Name: "Curtain Call (Deluxe)"
+

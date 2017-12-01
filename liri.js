@@ -7,7 +7,7 @@ var request = require("request");
 var fs = require("fs");
 
 function logToConsoleAndFile(message) {
-    console.log(message)
+    console.log(message);
     fs.appendFile("log.txt", message + "\n", function(err) {
         // If the code experiences any errors it will log the error to the console.
         if (err) {
@@ -26,7 +26,6 @@ var spotify = new Spotify({
 var Twitter = require('twitter');
 var client = new Twitter(keys.twitterKeys);
 
-
 //node liri.js my-tweets
 //This will show your last 20 tweets and when they were created at in your terminal/bash window.
 if (command === "my-tweets") {
@@ -43,13 +42,10 @@ if (command === "my-tweets") {
         else {
             console.log(error);
         }
-
     });
-
 }
 
 //node liri.js spotify-this-song //
-
 else if (command === "spotify-this-song") {
 
     var songName = process.argv[3];
@@ -82,9 +78,7 @@ else if (command === "spotify-this-song") {
 
 }
 
-
 // node liri.js movie-this 'movie name here'//
-
 else if (command === "movie-this") {
     var movieName = process.argv[3];
     if (movieName == undefined) {
@@ -93,8 +87,6 @@ else if (command === "movie-this") {
     }
     var queryUrl3 = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
     request(queryUrl3, function(error, response, body) {
-
-
 
         // If the request is successful (i.e. if the response status code is 200)
         if (!error && response.statusCode === 200) {
@@ -114,7 +106,6 @@ else if (command === "movie-this") {
     });
 
 }
-
 
 else if (command === "do-what-it-says") {
 
