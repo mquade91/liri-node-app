@@ -97,3 +97,7 @@ Song Name: "Lose Yourself - Soundtrack Version"
 There is no Preview URL available from Spotify.
 Album Name: "Curtain Call (Deluxe)"
 
+Artist Name: "Tyler Childers"
+Song Name: "Whitehouse Road"
+Preview Link: "https://p.scdn.co/mp3-preview/cf6fb10bb13261285b0d044bb40887814da405cc?cid=b3eeaaff6f0a47c59ee45f384af9a443"
+Album Name: "Purgatory"
